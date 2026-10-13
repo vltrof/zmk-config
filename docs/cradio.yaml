@@ -150,7 +150,7 @@ layers:
   - Sft+3
   - Sft+6
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - BT CLR ALL
   - '`'
   - Sft+4
   - Sft+5
@@ -167,8 +167,8 @@ layers:
   - PERIOD
   - Sft+1
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - BT NXT
+  - BT PRV
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Sft+LEFT PARENTHESIS
